@@ -1,4 +1,4 @@
-# First Readme.MD file I created
+# First README.md file I created
 
 There is nothing special in here so far
 In order to better understand the C programming language, I decided to get myself a beginners book, to help with my studies.
@@ -8,6 +8,6 @@ So I'll use this repo to organize upcoming coding tasks and challenges in this b
 [I am Link](https://youtube.de)
 
 ## Projectlist
-* Project 1
+* Exercise 1: Divided by..
 * Project 2
 * Project 3
