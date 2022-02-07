@@ -8,6 +8,7 @@ So I'll use this repo to organize upcoming coding tasks and challenges in this b
 [I am Link](https://youtube.de)
 
 ## Projectlist
-* Exercise 1: Divided by..
-* Project 2
-* Project 3
+* Exercise 1:	Divided by..
+* Exercise 2:	loops
+* Exercise 3:	loops / nested loops
+* Exercise 4:	structs
