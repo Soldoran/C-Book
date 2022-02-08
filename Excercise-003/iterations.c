@@ -11,8 +11,6 @@
 
 #include "stdio.h"
 
-/*	My solution with while loop	*/
-
 int	main()
 {
 	int	iteration;
@@ -30,21 +28,3 @@ int	main()
 	}
 	return (0);
 }
-
-/*	Book solution with for-loop and nested while-loop	*/
-
-/*
-int main()
-{
-	for (int i = 1; i<8; i++)
-	{
-		printf ("Schleifendurchlauf Nummer %d\n", i);
-		while (i < 2 || 6 < i)
-		{
-			printf("\t mit Erweiterung!\n");
-			break;
-		}
-	}
-	return 0;
-}
-*/

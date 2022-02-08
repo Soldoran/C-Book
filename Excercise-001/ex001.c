@@ -12,7 +12,6 @@
 
 #include "stdio.h"
 
-/*	This is the books solution	*/
 int	main()
 {
 	int	x;

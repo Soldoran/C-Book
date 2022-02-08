@@ -11,8 +11,6 @@
 
 #include "stdio.h"
 
-/*	My solution with a while-loop	*/
-
 int	main()
 {
 	int	factorial;
@@ -31,22 +29,3 @@ int	main()
 	printf("%d! is %d\n", factorial, result);
 	return (0);
 }
-
-/*	Solution from the Book with for-loop	*/
-
-/*
-int main()
-{
-	int x;
-	int Produkt = 1;
-	printf ("Es wird die Fakultaet aus der Zahl\n");
-	scanf ("%d", &x);
-	printf ("gebildet. \n...\n...\n");
-	for (int i = 1; i<=x; i++)
-	{
-		Produkt = Produkt * i;
-	}
-	printf ("Trommelwirbel..\nErgebnis: %d", Produkt);
-	return 0;
-}
-*/
